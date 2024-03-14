@@ -1,4 +1,4 @@
 # open-source-react
 
-Here we all can share their codes ,CONCEPT OF JAVASCRIPT and help others people ,Tech entusiast to learn and and implement thing 
+Here we all can share their codes ,CONCEPT OF JAVASCRIPT and help others people ,Tech enthusiast to learn and and implement thing 
 MAKE a real life project and LEARN from others code.....💯
