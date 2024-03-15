@@ -2,3 +2,5 @@ npm install -g create-react-app
  //to install react temporary use it and delete it..
 npx create-react-app my-app
 
+npm install
+npm start
