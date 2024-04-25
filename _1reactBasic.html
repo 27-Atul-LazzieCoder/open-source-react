@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>react 1</title>
+</head>
+<body>
+    <div id="root"></div>
+    <script 
+        crossorigin src="https://unpkg.com/react@18/umd/react.development.js">        
+    </script>
+    <script         
+         crossorigin src="https://unpkg.com/react-dom@18/umd/react-dom.development.js">
+    </script>
+    <script>
+        // let heading = React.createElement("tag_name", object or {}, "what to put inside tag..");
+        const heading = React.createElement("tag_name", {}, "what to put inside tag..");
+        // if we want to create root in React we use REACTDOM
+        const root = ReactDOM.createRoot(document.getElementById("root"));   //we have create root for react library
+        root.render(heading);
+    </script>
+    <script src ="_2reactBasicII.js"></script>
+</body>
+</html>
